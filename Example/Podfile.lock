@@ -1,0 +1,16 @@
+PODS:
+  - SwiftExtensionLab (0.1.0)
+
+DEPENDENCIES:
+  - SwiftExtensionLab (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftExtensionLab:
+    :path: ../
+
+SPEC CHECKSUMS:
+  SwiftExtensionLab: 77e2a6ba3a70423951169b6b584a6a15e910f1f7
+
+PODFILE CHECKSUM: a2f4d7220c4934bf81bb9164ff8011bd65fa11e5
+
+COCOAPODS: 1.1.1

@@ -1,0 +1,22 @@
+{
+  "name": "SwiftExtensionLab",
+  "version": "0.1.0",
+  "summary": "Swift extensions for default classes.",
+  "description": "Swift extensions for default classes like Array, Bool, Dictionary, Date, Timer, Color, AlertController, etc.",
+  "homepage": "https://github.com/dipottor/SwiftExtensionLab",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ravindra kumbhar": "ravindra563@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/dipottor/SwiftExtensionLab.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SwiftExtensionLab/Classes/**/*"
+}

@@ -22,7 +22,7 @@ pod "SwiftExtensionLab"
 
 ## Author
 
-ravindra kumbhar, ravindra@pocketapp.co.uk
+ravindra kumbhar, ravindra563@pocketapp.co.uk
 
 ## License
 

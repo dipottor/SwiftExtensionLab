@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SwiftExtensionLab'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SwiftExtensionLab.'
+  s.summary          = 'Swift extensions for default classes.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,14 +18,14 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Swift extensions for default classes like Array, Bool, Dictionary, Date, Timer, Color, AlertController, etc.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/SwiftExtensionLab'
+  s.homepage         = 'https://github.com/dipottor/SwiftExtensionLab'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'ravindra kumbhar' => 'ravindra@pocketapp.co.uk' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/SwiftExtensionLab.git', :tag => s.version.to_s }
+  s.author           = { 'ravindra kumbhar' => 'ravindra563@gmail.com' }
+  s.source           = { :git => 'https://github.com/dipottor/SwiftExtensionLab.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

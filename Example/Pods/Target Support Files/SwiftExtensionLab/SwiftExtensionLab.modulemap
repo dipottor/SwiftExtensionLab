@@ -1,0 +1,6 @@
+framework module SwiftExtensionLab {
+  umbrella header "SwiftExtensionLab-umbrella.h"
+
+  export *
+  module * { export * }
+}
